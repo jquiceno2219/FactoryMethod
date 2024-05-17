@@ -18,4 +18,4 @@ Here’s how the factory pattern works in this code:
 In essence, the Factory Pattern allows the code to hide the logic of creating specific instrument objects behind a factory class.
 
  This class diagram showcases the example of the Factory Method design pattern for creating musical instruments.
-![UML Diagram for project.](assets\Factory_Exercise-Factory.jpg)
+![UML Diagram for project.](assets/Factory_Exercise-Factory.jpg)
